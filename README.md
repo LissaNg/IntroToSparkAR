@@ -1,8 +1,8 @@
 # Intro To Spark AR
 
-This is a class for the Facebook Developer Circle: Toronto community, we are introducing the platform to be prepared for the next Hackathon.
+This is a class for the [Facebook Developer Circle: Toronto](https://www.facebook.com/groups/DeveloperCirclesToronto/) community, we are introducing the platform to be prepared for the next Hackathon.
 
-Class will be project based for better understanding on how to use features of the platform.
+Class will be project based for better understanding on how to use basic features of the platform.
 
 ## Getting Started
 
@@ -10,14 +10,14 @@ Class will be project based for better understanding on how to use features of t
 
 "Let's go Raptors" Filter - created to support the Toronto Raptors for the NBA Finals with the Golden State Warriors.
 
-Download files to get finished project and assets used for the filter.
+Download files to get **finished project** and assets used for the filter.
 
 I will be showing how I created this filter.
 
 Run Spark AR
 Open the Letsgoraptors.arproj inside the "Letsgoraptors" (with the SparkAR logo) folder
 
-### If you want to follow along with me just get the below files:
+### If you want to follow along with me just use the below files:
 
     faceMeshTrackers.png
     letsgoraps.png
