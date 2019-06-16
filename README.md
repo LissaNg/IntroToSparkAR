@@ -6,6 +6,8 @@ Class will be project based for better understanding on how to use features of t
 
 ## Getting Started
 
+![Alt Text](http://giphygifs.s3.amazonaws.com/media/1oITFUe0Xl2ewWrha4/giphy.gif)
+
 "Let's go Raptors" Filter - created to support the Toronto Raptors for the NBA Finals with the Golden State Warriors.
 
 Download files to get finished project and assets used for the filter.
